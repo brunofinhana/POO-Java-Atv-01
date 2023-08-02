@@ -5,5 +5,5 @@ class Main {
 
 		System.out.println(eu.getIdade());
 		
-}
+	}
 }
